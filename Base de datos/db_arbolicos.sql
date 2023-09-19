@@ -1,0 +1,1 @@
+SELECT * FROM arbolicos_db.user;
